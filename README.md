@@ -112,7 +112,7 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![OUTPUT](./output.png)
+![OUTPUT](./output1.png)
 
 
 ## RESULT:
